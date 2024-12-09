@@ -1,0 +1,12 @@
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Core\bin\Debug\net8.0\EcommerceProkoders.Core.deps.json
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Core\bin\Debug\net8.0\EcommerceProkoders.Core.dll
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Core\bin\Debug\net8.0\EcommerceProkoders.Core.pdb
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Core\obj\Debug\net8.0\EcommerceProkoders.Core.csproj.AssemblyReference.cache
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Core\obj\Debug\net8.0\EcommerceProkoders.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Core\obj\Debug\net8.0\EcommerceProkoders.Core.AssemblyInfoInputs.cache
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Core\obj\Debug\net8.0\EcommerceProkoders.Core.AssemblyInfo.cs
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Core\obj\Debug\net8.0\EcommerceProkoders.Core.csproj.CoreCompileInputs.cache
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Core\obj\Debug\net8.0\EcommerceProkoders.Core.dll
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Core\obj\Debug\net8.0\refint\EcommerceProkoders.Core.dll
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Core\obj\Debug\net8.0\EcommerceProkoders.Core.pdb
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Core\obj\Debug\net8.0\ref\EcommerceProkoders.Core.dll

@@ -1,0 +1,15 @@
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\bin\Debug\net8.0\EcommerceProkoders.Service.deps.json
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\bin\Debug\net8.0\EcommerceProkoders.Service.dll
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\bin\Debug\net8.0\EcommerceProkoders.Service.pdb
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\bin\Debug\net8.0\EcommerceProkoders.Core.dll
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\bin\Debug\net8.0\EcommerceProkoders.Core.pdb
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\obj\Debug\net8.0\EcommerceProkoders.Service.csproj.AssemblyReference.cache
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\obj\Debug\net8.0\EcommerceProkoders.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\obj\Debug\net8.0\EcommerceProkoders.Service.AssemblyInfoInputs.cache
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\obj\Debug\net8.0\EcommerceProkoders.Service.AssemblyInfo.cs
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\obj\Debug\net8.0\EcommerceProkoders.Service.csproj.CoreCompileInputs.cache
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\obj\Debug\net8.0\EcommerceProkoders.Service.csproj.CopyComplete
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\obj\Debug\net8.0\EcommerceProkoders.Service.dll
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\obj\Debug\net8.0\refint\EcommerceProkoders.Service.dll
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\obj\Debug\net8.0\EcommerceProkoders.Service.pdb
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Service\obj\Debug\net8.0\ref\EcommerceProkoders.Service.dll

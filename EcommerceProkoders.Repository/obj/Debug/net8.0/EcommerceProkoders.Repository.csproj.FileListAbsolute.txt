@@ -1,0 +1,17 @@
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\obj\Debug\net8.0\EcommerceProkoders.Repository.csproj.AssemblyReference.cache
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\obj\Debug\net8.0\EcommerceProkoders.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\obj\Debug\net8.0\EcommerceProkoders.Repository.AssemblyInfoInputs.cache
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\obj\Debug\net8.0\EcommerceProkoders.Repository.AssemblyInfo.cs
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\obj\Debug\net8.0\EcommerceProkoders.Repository.csproj.CoreCompileInputs.cache
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\bin\Debug\net8.0\EcommerceProkoders.Repository.deps.json
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\bin\Debug\net8.0\EcommerceProkoders.Repository.runtimeconfig.json
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\bin\Debug\net8.0\EcommerceProkoders.Repository.dll
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\bin\Debug\net8.0\EcommerceProkoders.Repository.pdb
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\bin\Debug\net8.0\EcommerceProkoders.Core.dll
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\bin\Debug\net8.0\EcommerceProkoders.Core.pdb
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\obj\Debug\net8.0\EcommerceProkoders.Repository.csproj.CopyComplete
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\obj\Debug\net8.0\EcommerceProkoders.Repository.dll
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\obj\Debug\net8.0\refint\EcommerceProkoders.Repository.dll
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\obj\Debug\net8.0\EcommerceProkoders.Repository.pdb
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\obj\Debug\net8.0\EcommerceProkoders.Repository.genruntimeconfig.cache
+D:\work\EcommerceProkoders\EcommerceProkoders\EcommerceProkoders.Repository\obj\Debug\net8.0\ref\EcommerceProkoders.Repository.dll
