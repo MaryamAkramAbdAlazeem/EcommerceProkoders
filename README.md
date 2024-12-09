@@ -23,7 +23,7 @@ Installation
 Clone the repository:
 
 bash
-نسخ الكود
+
 git clone https://github.com/MaryamAkramAbdAlazeem/EcommerceProkoders
 cd simplified-ecommerce
 Configure the database connection:
@@ -31,19 +31,19 @@ Configure the database connection:
 Open appsettings.json.
 Update the connection string under "ConnectionStrings":
 json
-نسخ الكود
+
 "DefaultConnection": "Server=YOUR_SERVER;Database=ECommerceDB;Trusted_Connection=True;"
 Apply database migrations:
 
 dotnet ef database update
 Run the application:
-نسخ الكود
+
 dotnet run
 API Documentation
 The API documentation can be accessed through Swagger. After running the application, open your browser and navigate to:
 
 bash
-نسخ الكود
+
 https://localhost:44325/swagger
 
 Database Schema
